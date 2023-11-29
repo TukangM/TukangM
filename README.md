@@ -26,7 +26,6 @@
  - [ ] NAS Storage
  - [ ] raspberry pi [for project and hobby absolutely]
  - [ ] anything i want tho...
-
 # with any limitations. does not prevent me from moving towards a beautiful future
 - 👨‍🦽 I am inspired with these:
   - [LinusTechTips](https://www.youtube.com/@linustechtips)
