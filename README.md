@@ -6,6 +6,7 @@
 - 🔭 I’m currently studying at **Indonesia**
 
 - 📤 I'm currently working on my [Pocketmine-MP arm64 server](https://github.com/TukangM/Pocketmine-MP-aarch64) project
+
 - 🌱 I’m currently learning **C#, HTML, Javascript**
 
 - 💬 You can ask me about **Androidx86, Windows10-11-iso, Pull requests**
@@ -14,11 +15,20 @@
 
 - ⚡ Fun fact **I'am a furry since 8 October 2022**
 
+- 👨‍🎓 My goals became:
+ - [X] Developer
+ - [ ] 4090 Ti for Interpolate video at [youtube/@xynocode](https://youtube.com/@xynocode)
+ - [ ] Animator
+ - [ ] Pianist
+
+# with any limitations. does not prevent me from moving towards a beautiful future
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dum_sus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dum_sus" height="30" width="40" /></a>
 <a href="https://instagram.com/sayaaep_idk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayaaep_idk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sayaaep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayaaep" height="30" width="40" /></a>
+<a href="https://github.com/TukangM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
