@@ -17,9 +17,13 @@
 
 - 👨‍🎓 My goals became:
  - [X] Developer
- - [ ] 4090 Ti for Interpolate video at [youtube/@xynocode](https://youtube.com/@xynocode)
  - [ ] Animator
  - [ ] Pianist
+- ✨Wanted to have these:
+ - [ ] 4090 Ti for Interpolate video at [youtube/@xynocode](https://youtube.com/@xynocode)
+ - [ ] good pc for run a smol project
+ - [ ] raspberry pi
+ - [ ] anything i want tho...
 
 # with any limitations. does not prevent me from moving towards a beautiful future
 
