@@ -32,13 +32,15 @@
   - [Jeff Geerling](https://www.youtube.com/@JeffGeerling)
   - [Hardware Haven](https://www.youtube.com/@HardwareHaven)
   - [PewDiePie](https://www.youtube.com/@PewDiePie)
+  - [ThioJoe](https://www.youtube.com/@ThioJoe) [github](https://github.com/ThioJoe)
   - [Elon Musk](https://twitter.com/elonmusk)
-  - [yusup909](https://www.youtube.com/@YUSUP909) *friend
+  - [yusup909](https://www.youtube.com/@YUSUP909) *friend github
   - [Sashley](https://www.youtube.com/@sashley)
   - [filian](https://www.youtube.com/@filianIsLost)
   - [Typh](https://www.youtube.com/channel/UCdARcqAEmGmU9ppAx8KHiVQ)
   - [Ekaterina](https://www.youtube.com/@ekatmagic)
   - [Windah Basudara](https://www.youtube.com/@WindahBasudara)
+  - [Kentang Tech](https://www.youtube.com/@KentangTech_official)
   - [Element X](https://www.youtube.com/@ElementX)
   - [NanangMrk](https://www.youtube.com/@NanangMrk)
   - [Anak Agung Duwi Arsana](https://www.youtube.com/@AnakAgungDuwiArsana)
