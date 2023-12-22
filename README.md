@@ -21,7 +21,7 @@
  - [ ] Pianist
  - [ ] Musician
 - ✨Wanted to have these:
- - [ ] 4090 Ti for Interpolate video at [youtube/@xynocode](https://youtube.com/@xynocode)
+ - [ ] 4090 for Interpolate video at [youtube/@xynocode](https://youtube.com/@xynocode)
  - [ ] good 2 pc for run a smol project
  - [ ] NAS Storage
  - [ ] raspberry pi [for project and hobby absolutely]
