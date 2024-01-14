@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Indonesia**
 
-- 📤 I'm currently working on my [PocketMine-MP arm64 server](https://github.com/TukangM/Pocketmine-MP-aarch64, [PocketMine-MP4Android module Magisk](https://github.com/TukangM/PocketMine-MP4Android), Playit.gg4Android Module Magisk project
+- 📤 I'm currently working on my [PocketMine-MP arm64 server](https://github.com/TukangM/Pocketmine-MP-aarch64), [PocketMine-MP4Android module Magisk](https://github.com/TukangM/PocketMine-MP4Android), Playit.gg4Android Module Magisk project
 
 - 🌱 I’m currently learning **C#, HTML, Javascript**
 
