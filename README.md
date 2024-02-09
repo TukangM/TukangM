@@ -34,6 +34,7 @@
   - [PewDiePie](https://www.youtube.com/@PewDiePie)
   - [ThioJoe](https://www.youtube.com/@ThioJoe) [github](https://github.com/ThioJoe)
   - [Elon Musk](https://twitter.com/elonmusk)
+  - [Agung Hapsah](https://www.youtube.com/@AgungHapsah)
   - [yusup909](https://www.youtube.com/@YUSUP909)
   - [Sashley](https://www.youtube.com/@sashley)
   - [filian](https://www.youtube.com/@filianIsLost)
