@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm AEP</h1>
+<h1 align="center">Hi there! 👋, I'm TukangM</h1>
+<h3 align=center>another verse i am a SayaAEP, Xynocode, Hazel :3</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tukangm&label=Profile%20views&color=0e75b6&style=flat" alt="tukangm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tukangm" alt="tukangm" /></a> </p>
@@ -9,15 +11,15 @@
 
 - 🌱 I’m currently learning **C#, HTML, Javascript**
 
-- 💬 You can ask me about **Androidx86, Windows10-11-iso, Pull requests**
+- 💬 You can ask me about **Androidx86, Windows10-11-iso, everything**
 
-- 📫 How to reach me **[@dum_sus](https://twitter.com/dum_sus) at twitter**
+- 📫 How to reach me **[@dum_sus](https://x.com/dum_sus) at twitter**
 
 - ⚡ Fun fact **I'am a furry since 8 October 2022**
 
 - 👨‍🎓 My goals became:
  - [X] Developer
- - [ ] Animator
+ - [ ] Animator `i can draw some cute furry :3`
  - [ ] Pianist
  - [ ] Musician
 - ✨Wanted to have these:
