@@ -66,7 +66,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tukangm&show_icons=true&locale=en" alt="tukangm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tukangm&" alt="tukangm" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=TukangM" alt="tukangm" /></p>
 
 # Liked Songs
 ![liked songs](https://github.com/TukangM/TukangM/assets/91467886/945ca0e7-299a-4dfc-a095-c32149b4efed)
